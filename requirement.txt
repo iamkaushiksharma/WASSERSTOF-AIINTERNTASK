@@ -1,0 +1,5 @@
+tensorflow
+pillow
+pixellib
+opencv-python
+scikit-image
